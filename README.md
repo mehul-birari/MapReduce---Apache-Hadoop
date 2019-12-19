@@ -32,8 +32,12 @@ The output shows the various results we obtain after the the mapreduce parallel 
 - Parse output where we get the names of Computer Science professors corresponding to the publication and gets displayed the number of times as their publications
 ![Author names](https://raw.githubusercontent.com/mehul-birari/MapReduce---Apache-Hadoop/master/images/photo1.JPG "Author names")
 
+
+
 - Count output where each line shows the count of publications corresponding to the authors whether single or multiple
 ![Author names and count](https://raw.githubusercontent.com/mehul-birari/MapReduce---Apache-Hadoop/master/images/photo2.JPG "Author names and count")
+
+
 
 - Sort output by publication count in ascending order
 ![Sorted by publication count](https://raw.githubusercontent.com/mehul-birari/MapReduce---Apache-Hadoop/master/images/photo3.JPG "Sorted by publication count")
