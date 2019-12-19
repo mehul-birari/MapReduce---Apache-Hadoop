@@ -1,4 +1,4 @@
-# MapReduce Homework Assignment 2 	(Mehul Birari)
+# Apache Hadoop MapReduce 
 
 A Map/Reduce program for parallel processing of a DBLP dataset containing entries for various publications at many different venues. File size = 2.5GB
   
